@@ -1,0 +1,49 @@
+.body-class {
+	background-color: 	#e1f1fd;
+}
+
+.header-class {
+	color: #011f4b
+}
+.nav-class {
+	list-style-type: none;
+	background-color: #001a33
+}
+
+.nav-class a {
+	color: white;
+	padding: 15px;
+	display: inline-block;
+
+}
+.nav-class a:hover {
+	background-color:  #003366
+}
+.section-title-class {
+	color: #800000
+}
+
+.text-class {
+	color: 		#51286a
+}
+.image-class {
+	border: 10px solid #3742b5
+}
+.form-class {
+	color: 	#760e83
+}
+.button-class {
+	background-color: 	#a4d8ff
+}
+.footer-class {
+	background-color: #001a33;
+	color: white;
+}
+* {
+	font-family: Arial;
+}
+@media only screen and (max-width: 480px) {
+body {
+font-size: 15px;
+}
+}
